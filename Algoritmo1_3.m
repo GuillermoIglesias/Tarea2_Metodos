@@ -62,6 +62,6 @@ end
 
 t_total = cputime-t_start;
 fprintf('Iteraciones: %f\n',count)   
-fprintf('Tiempo: %f \n', t_total)  
+fprintf('Tiempo: %f \n',t_total)  
 ans = x'
 end
